@@ -2,7 +2,7 @@
 
 This is the [react](https://reactjs.org/) port of the 2048 game designed by Gabriele Cirulli https://github.com/gabrielecirulli/2048
 
-## Example
+## Example.
 
 ![example](https://user-images.githubusercontent.com/19590194/64501857-c37bc600-d2f5-11e9-80b2-879fcaa060e2.png)
 
